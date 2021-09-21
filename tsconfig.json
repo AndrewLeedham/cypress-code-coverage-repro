@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "lib": ["ES2019", "dom"],
+        "jsx": "react-jsx",
+        "target": "ES2019",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "noEmit": true,
+        "declaration": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "allowSyntheticDefaultImports": true,
+        "types": ["node", "react", "cypress"]
+    }
+}

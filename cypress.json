@@ -1,0 +1,15 @@
+{
+    "integrationFolder": "integration",
+    "downloadsFolder": "downloads",
+    "fixturesFolder": "fixtures",
+    "pluginsFile": "plugins/index.js",
+    "screenshotsFolder": "screenshots",
+    "supportFile": "support/index.ts",
+    "videosFolder": "videos",
+    "componentFolder": "components",
+    "testFiles": "*.cypress.test.*",
+    "videoUploadOnPasses": false,
+    "fileServerFolder": "build",
+    "screenshotOnRunFailure": false
+  }
+  
